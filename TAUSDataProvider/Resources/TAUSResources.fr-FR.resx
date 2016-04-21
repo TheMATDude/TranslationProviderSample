@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="PropertyContentTypeDescription" xml:space="preserve">
+    <value>Type de contenu de la traduction</value>
+  </data>
+  <data name="PropertyContentTypeDisplayName" xml:space="preserve">
+    <value>Type de contenu</value>
+  </data>
+  <data name="PropertyIndustryDescription" xml:space="preserve">
+    <value>Industrie de la traduction</value>
+  </data>
+  <data name="PropertyIndustryDisplayName" xml:space="preserve">
+    <value>Industrie</value>
+  </data>
+  <data name="PropertyOwnerDescription" xml:space="preserve">
+    <value>Propriétaire de la traduction</value>
+  </data>
+  <data name="PropertyOwnerDisplayName" xml:space="preserve">
+    <value>Propriétaire</value>
+  </data>
+  <data name="PropertyProductDescription" xml:space="preserve">
+    <value>Produit qui utilise la traduction</value>
+  </data>
+  <data name="PropertyProductDisplayName" xml:space="preserve">
+    <value>Produit</value>
+  </data>
+  <data name="PropertyProviderDescription" xml:space="preserve">
+    <value>Fournisseur de la traduction</value>
+  </data>
+  <data name="PropertyProviderDisplayName" xml:space="preserve">
+    <value>Fournisseur</value>
+  </data>
+  <data name="ProviderCredentialError" xml:space="preserve">
+    <value>Les informations d'identification sont introuvables dans le gestionnaire d'identification.</value>
+  </data>
+  <data name="ProviderDescription" xml:space="preserve">
+    <value>Il s'agit d'un fournisseur de données de TAUS qui fonctionne avec kit de ressources pour application multilingue. Veuillez consulter la documentation pour les détails d'implémentation.</value>
+  </data>
+  <data name="ProviderDisplayName" xml:space="preserve">
+    <value>Fournisseur TAUS DATA</value>
+  </data>
+</root>

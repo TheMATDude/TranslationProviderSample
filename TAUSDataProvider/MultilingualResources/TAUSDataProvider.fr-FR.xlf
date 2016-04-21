@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="fr-FR" original="TAUSDATAPROVIDER/RESOURCES/TAUSRESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1605.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="TAUSDATAPROVIDER/RESOURCES/TAUSRESOURCES.RESX" datatype="resx">
+        <trans-unit id="PropertyContentTypeDescription" translate="yes" xml:space="preserve">
+          <source>Content Type for the translation</source>
+          <target state="translated">Type de contenu de la traduction</target>
+        </trans-unit>
+        <trans-unit id="PropertyContentTypeDisplayName" translate="yes" xml:space="preserve">
+          <source>Content Type</source>
+          <target state="translated">Type de contenu</target>
+        </trans-unit>
+        <trans-unit id="PropertyIndustryDescription" translate="yes" xml:space="preserve">
+          <source>Industry that provided the translation</source>
+          <target state="translated">Industrie de la traduction</target>
+        </trans-unit>
+        <trans-unit id="PropertyIndustryDisplayName" translate="yes" xml:space="preserve">
+          <source>Industry</source>
+          <target state="translated">Industrie</target>
+        </trans-unit>
+        <trans-unit id="PropertyOwnerDescription" translate="yes" xml:space="preserve">
+          <source>Owner of the translation</source>
+          <target state="translated">Propriétaire de la traduction</target>
+        </trans-unit>
+        <trans-unit id="PropertyOwnerDisplayName" translate="yes" xml:space="preserve">
+          <source>Owner</source>
+          <target state="translated">Propriétaire</target>
+        </trans-unit>
+        <trans-unit id="PropertyProductDescription" translate="yes" xml:space="preserve">
+          <source>Product that uses the translation</source>
+          <target state="translated">Produit qui utilise la traduction</target>
+        </trans-unit>
+        <trans-unit id="PropertyProductDisplayName" translate="yes" xml:space="preserve">
+          <source>Product</source>
+          <target state="translated">Produit</target>
+        </trans-unit>
+        <trans-unit id="PropertyProviderDescription" translate="yes" xml:space="preserve">
+          <source>Company that provided the translation</source>
+          <target state="translated">Fournisseur de la traduction</target>
+        </trans-unit>
+        <trans-unit id="PropertyProviderDisplayName" translate="yes" xml:space="preserve">
+          <source>Provider</source>
+          <target state="translated">Fournisseur</target>
+        </trans-unit>
+        <trans-unit id="ProviderCredentialError" translate="yes" xml:space="preserve">
+          <source>The required credentials were not found in the Credential Manager service.</source>
+          <target state="translated">Les informations d'identification sont introuvables dans le gestionnaire d'identification.</target>
+        </trans-unit>
+        <trans-unit id="ProviderDescription" translate="yes" xml:space="preserve">
+          <source>This is a TAUS DATA provider that works with the Multilingual App Toolkit.  Please review the documentation for implementation details</source>
+          <target state="translated">Il s'agit d'un fournisseur de données de TAUS qui fonctionne avec kit de ressources pour application multilingue. Veuillez consulter la documentation pour les détails d'implémentation.</target>
+        </trans-unit>
+        <trans-unit id="ProviderDisplayName" translate="yes" xml:space="preserve">
+          <source>TAUS DATA provider</source>
+          <target state="translated">Fournisseur TAUS DATA</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
